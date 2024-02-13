@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.container {
+    text-align: center;
+    background-color: whitesmoke;
+    padding: 70px;
+    border-radius: 20px;
+}
+
+input, button {
+    margin: 10px;
+    padding: 5px;
+}
+
+.knapsack-state {
+    margin-top: 20px;
+    color: green;
+}
